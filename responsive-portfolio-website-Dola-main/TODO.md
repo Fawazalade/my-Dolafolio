@@ -1,0 +1,3 @@
+- Remove blob div from the first services card (Developer)
+- Remove blob div from the second services card (Design)
+- Remove blob div from work cards
