@@ -1,6 +1,6 @@
 ========== NAV ==========
 .nav__logo
-Anid
+Dola
 
 .nav__link
 About Us - Projects - Contact
@@ -11,7 +11,7 @@ About Us - Projects - Contact
 Hello, I'm
 
 .home__name
-Anid <br> Wrooks
+Dola
 
 .home__split
 Creative
@@ -110,21 +110,20 @@ Now
 Web developer handling technologies such as Angular, 
 databases, CMS, assisting with web optimization.
 
-Systems <br> Engineering
+Civil <br> Engineering
 University
-2010
-College student, learning the basics of programming, 
-web development, and other topics, graduating with honors.
+2024
+College student, learning the basics of strutures, and other topics, graduating with honors.
 
-Web <br> Programming
+Web <br> FUTMINNA 
 University
-2015
+2020
 College student, learning the basics of programming, 
 web development, and other topics, graduating with honors.
 
 Usability <br> (UX/UI)
 University
-2018
+2023
 College student, learning the basics of programming, 
 web development, and other topics, graduating with honors.
 
@@ -149,28 +148,9 @@ motion designs with After Effects, creativity
 and design at its best.
 
 Skills & Tools
-Figma - Adobe XD - Photoshop - Ilustrator
-Sketch - 3D Modeling - After Effects
+Figma - 
+Sketch -
 
-
-========== TESTIMONIALS ==========
-.section__title
-<span>What They Say</span> 
-<br> About Me
-
-.testimonials__name
-Abex Wrooks
-Willer Morth
-Llemi Llorens
-Jems Guiller
-
-.testimonials__number
-5.0
-
-.testimonials p
-The company offers many easy-to-use services, 
-with hard work and round-the-clock support on 
-all projects.
 
 
 ========== CONTACT ==========
@@ -184,7 +164,7 @@ Tell me about your next project.
 Copy email
 
 .contact__email
-anid123@email.com
+oxdolpheth@gmail.com
 
 .contact__title
 Email
@@ -193,8 +173,8 @@ Social Media
 Write Me & We'll Talk
 
 .contact__address
-Willer123@email.com
-Lima, Peru
+oxdolpheth@gmail.com
+Lagos, Nigeria
 
 .contact__link
 Linkedin - GitHub - Dribbble - GitLab
@@ -206,10 +186,9 @@ https://about.gitlab.com/
 
 WhatsApp - Messenger - Telegram -  instagram
 
-https://api.whatsapp.com/send?phone=51123456789&text=Hello, more information!
-https://m.me/bedimcode
-https://t.me/telegram
-https://www.instagram.com/
+https://api.whatsapp.com/send?phone=+2349079608461&text=Hello, more information!
+https://t.me/@dolap0
+https://www.instagram.com/Dola_porr
 
 ========== FOOTER ==========
 .footer__copy
@@ -217,3 +196,4 @@ All Rights Reserved By <span>Bedimcode</span>
 
 .footer__year
 &#169; 2025
+
